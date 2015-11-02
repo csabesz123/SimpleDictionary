@@ -8,16 +8,13 @@ Egy az aktuális idõjárást lekérdezõ App-ot szeretnénk fejleszteni amely megcéloz
 Ezt az alkalmazást Android 5.0 és vagy magasabb verziószámú Android eszközökre fejlesztjük, foként telefonok és tableteket célozzuk meg ezzel az alkalmazással.  
 
     Kliensoldal (a felhasználó készülékén futó alkalmazás funkciói)
-        Követelmény1
-        Követelmény2
-        …
-        Követelmény n
-    Szerveroldal
-        Követelmény1
-        Követelmény2
+        Pontos idojárási információt ad, a készülék pontos helyéhez megfeleloen.
+        Idojáráshoz megfelelo öltözködési tippeket ad.
         …
         Követelmény n
 
+    Szerveroldal
+        Yahoo szerverérol fogja lekérni a pontos idojárási információkat.
 
 // Nem funkcionális követelmények
 
