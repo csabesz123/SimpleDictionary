@@ -39,4 +39,7 @@ Ha szükséges, egyéb interfészek (hardver, szoftver, kommunikációs) leírása
 
 // Dizájn terv
 
-Vázlatos reprezentálása az alkalmazás vizuális megjelenítésének (lásd Wireframe sablonunkat.) A hangsúlynak a fejlesztés ezen szakaszában nem a színeken vagy tipográfián kell lennie, hanem sokkal inkább az oldalak elrendezésén, a navigáción, a gombok és menük elhelyezésén.
+Egy letisztult alkalmazást szeretnénk létrehozni ami felhasználóbarát tervezése miatt könnyen kezelhetõ és átláltható lesz.
+Mindezek melett minden fontos információt megtalálhatunk.
+Szemléltetjük, hogy éppen milyen idõ van azon a területen ahol éppen tartózkodik és emelett tanácsokkal is ellátjuk.
+A csatolt képekben szemléltetjük hogyan is fog kinézni.
