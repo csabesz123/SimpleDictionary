@@ -1,6 +1,6 @@
 // Áttekintés
 
-Az alkalmazás néhány soros bemutatása: az alkalmazás célja, fõ funkciói, célközönsége. Ezen kívül szót lehet még ejteni itt a termék környezetérõl, a korlátozásokról és a követelmények csoportosításának szempontjairól.
+Egy az aktuális idõjárást lekérdezõ App-ot szeretnénk fejleszteni amely megcélozná azt a célközönséget akiknek nincs idejük a reggeli tárgyalásokra való induláskor bekapcsolni a számítógépet vagy a televíziót, hogy tájékozódjanak az idõjárásról ami aznap várhat rájuk. Az App az idõjárástól függõen tanácsot fog adni üzletemberünk számára, hogy például ha napközbe nagy melegség várható : "Vigyen magával 2 inget, mert két tárgyalása között le fog izzadni a 28-31fok közötti várható hõmérsékleten.
 
 
 // A rendszer funkciói
