@@ -18,7 +18,7 @@ Ezt az alkalmazást Android 5.0 és vagy magasabb verziószámú Android eszközökre f
 
 // Nem funkcionális követelmények
 
-A nem-funkcionális követelmények nem a rendszer szolgáltatásait írják le, hanem a rendszer által nyújtott szolgáltatásokra tett megszorításokat jelentik, a rendszer egészének a minõségét határozzák meg. Pl.: használhatóság, teljesítmény, megbízhatóság, stb.
+Az App egy megbízható idõjárásjelentõ szerverrõl fogja lekérni az aktuális idõjárást a nap bármely pontján és egy letisztul könnyen és gyorsan értelmezhetõ felületen fogja közölni ezt a felhasználóval.
 
 
 // Interfészek
