@@ -21,7 +21,7 @@ Ezt az alkalmazást Android 5.0 és vagy magasabb verziószámú Android eszközökre f
 
 // Nem funkcionális követelmények
 
-Az App egy megbízható idõjárásjelentõ szerverrõl fogja lekérni az aktuális idõjárást a nap bármely pontján és egy letisztul könnyen és gyorsan értelmezhetõ felületen fogja közölni ezt a felhasználóval.
+Az App egy megbízható idõjárásjelentõ szerverrõl fogja lekérni az aktuális idõjárást a nap bármely pontján és egy letisztult könnyen és gyorsan értelmezhetõ felületen fogja közölni ezt a felhasználóval.
 
 
 // Interfészek
