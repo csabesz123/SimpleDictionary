@@ -5,7 +5,7 @@ Az alkalmazás néhány soros bemutatása: az alkalmazás célja, fõ funkciói, célközö
 
 // A rendszer funkciói
 
-A funkciók kifejtése elõtt szót lehet arról ejteni, hogy milyen platformokra, oprendszer verziókra és milyen eszközökre tervezik megvalósítani az alkalmazást (esetleg ezek priorizálása is tanácsos).
+Ezt az alkalmazást Android 5.0 és vagy magasabb verziószámú Android eszközökre fejlesztjük, foként telefonok és tableteket célozzuk meg ezzel az alkalmazással.  
 
     Kliensoldal (a felhasználó készülékén futó alkalmazás funkciói)
         Követelmény1
