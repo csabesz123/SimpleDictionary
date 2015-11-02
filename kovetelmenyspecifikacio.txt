@@ -10,7 +10,7 @@ Ez a dokumentum alapvetõen a szolgáltatásokat mutatja be, elemzi a felhasználók 
 
 Áttekintés:
 Fõbb funkciók:  - A kiválasztott városhoz tartozó idõjárási adatok megjelenítése és idõszakos frissítése.
-		- Idojáráshoz megfelelo ruházati tippeket ad az alkalmazás.
+		- Idojáráshoz megfelelo ruházati tippeket ad az alkalmazás. 
 
 ………
 
