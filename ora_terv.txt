@@ -1,1 +1,7 @@
-Ezen az órán a specifikációkat érdemes befejezni és lassacskán elkezdeni kitalálni a fõbb funkciókat.
+// Ezen az órán a specifikációkat érdemes befejezni és lassacskán elkezdeni kitalálni a fõbb funkciókat.  
+
+//saját ikonterv kialakításanak megbeszélése 
+//béta forráskód feltöltésének határidõt szabni
+
+
+
