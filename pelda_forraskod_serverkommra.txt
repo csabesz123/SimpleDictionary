@@ -60,7 +60,14 @@
       "temp": "33",
       "text": "Light Snow/Windy"
      },
-     "description": "\n<img src=\"http://l.yimg.com/a/i/us/we/52/14.gif\"/><br />\n<b>Current Conditions:</b><br />\nLight Snow/Windy, 33 F<BR />\n<BR /><b>Forecast:</b><BR />\nSun - Rain/Snow/Wind. High: 36 Low: 32<br />\nMon - Rain/Snow/Wind. High: 36 Low: 28<br />\nTue - AM Snow Showers/Wind. High: 31 Low: 18<br />\nWed - Mostly Sunny. High: 23 Low: 16<br />\nThu - Cloudy. High: 22 Low: 16<br />\n<br />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Nome__AK/*http://weather.yahoo.com/forecast/USAK0170_f.html\">Full Forecast at Yahoo! Weather</a><BR/><BR/>\n(provided by <a href=\"http://www.weather.com\" >The Weather Channel</a>)<br/>\n",
+     "description": "\n<img src=\"http://l.yimg.com/a/i/us/we/52/14.gif\"/>
+<br />\n<b>Current Conditions:</b><br />\nLight Snow/Windy, 33 F<BR />\n<BR />
+<b>Forecast:</b><BR />\nSun - Rain/Snow/Wind. High: 36 Low: 32<br />
+\nMon - Rain/Snow/Wind. High: 36 Low: 28<br />\nTue - AM Snow Showers/Wind. High: 31 Low: 18<br />
+\nWed - Mostly Sunny. High: 23 Low: 16<br />
+\nThu - Cloudy. High: 22 Low: 16<br />\n<br />
+\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Nome__AK/*http://weather.yahoo.com/forecast/USAK0170_f.html\">Full Forecast at Yahoo! Weather</a><BR/><BR/>
+\n(provided by <a href=\"http://www.weather.com\" >The Weather Channel</a>)<br/>\n",
      "forecast": [
       {
        "code": "5",
