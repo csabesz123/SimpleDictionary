@@ -20,21 +20,6 @@ Ezt az alkalmazást Android 5.0 és vagy magasabb verziószámú Android eszközökre f
 Az App egy megbízható idõjárásjelentõ szerverrõl fogja lekérni az aktuális idõjárást a nap bármely pontján és egy letisztult könnyen és gyorsan értelmezhetõ felületen fogja közölni ezt a felhasználóval.
 
 
-// Interfészek
-
-Ebben a fejezetben lehet specifikálni a rendszer valamennyi külsõ kapcsolatát, az ezt biztosító interfészeket.
-
-Felhasználói interfész (GUI) terv – ahogy az alkalmazás „kinéz” majd (lehet vázlatos is, részben ez alapján készülnek majd a részletes képernyõtervek)
-
-Ha szükséges, egyéb interfészek (hardver, szoftver, kommunikációs) leírása
-
-
-// Az alkalmazás mûködésének áttekintése
-
-    Kliensoldal
-    Szerveroldal
-
-
 
 // Dizájn terv
 
