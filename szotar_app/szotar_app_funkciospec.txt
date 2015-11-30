@@ -1,0 +1,12 @@
+SimpleDictionary – Funkcióspec.
+
+Ez az applikáció egy szótár applikáció, amivel az idegen nyelvi nehézségeket lehet egy kicsit áthidalni.
+
+A rendszer funkciói:
+Ez az alkalmazás 4.0.4 vagy újabb operációs rendszerû telefonra készül. Elsõdleges cél az okostelefonok, hiszen manapság majdnem minden ember rendelkezik egy okostelefonnal.
+
+Felhasználói felület:
+Az alkalmazás lehetõséget fog adni a felhasználónak, hogy melyik idegen nyelv szavait akarja lefordítani. Kezdetben Angol-Magyar, Magyar-Angol, illetve Német-Magyar, Magyar-Német szótárat fog tartalmazni.
+
+Dizájn terv: 
+Egy letisztult alkalmazást szeretnénk létrehozni ami felhasználóbarát tervezése miatt könnyen kezelhetõ és átlátható lesz.
