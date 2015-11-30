@@ -1,0 +1,2 @@
+A mai órán feltöltöttük az otthon álltalunk elkészített szótár app kezdeti verzióját.
+Az adatbázison dolgozunk éppen.
