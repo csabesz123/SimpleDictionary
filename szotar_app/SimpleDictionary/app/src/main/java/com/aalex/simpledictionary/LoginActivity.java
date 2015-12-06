@@ -35,6 +35,9 @@ public class LoginActivity extends AppCompatActivity implements  View.OnClickLis
         buttonBelepes = (Button) findViewById(R.id.buttonBelepes);
         buttonBelepes.setOnClickListener(this);
 
+        buttonExit = (Button)findViewById(R.id.buttonExit);
+        buttonExit.setOnClickListener(this);
+
     }
 
     public void onClick(View v) {
@@ -42,6 +45,9 @@ public class LoginActivity extends AppCompatActivity implements  View.OnClickLis
             case R.id.buttonBelepes:
                 Intent intentBelepes = new Intent(LoginActivity.this, MainMenuActivity.class);
                 startActivity(intentBelepes);
+                break;
+            case R.id.buttonExit:
+                finish();
                 break;
 
 
