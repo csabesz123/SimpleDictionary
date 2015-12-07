@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+Ezen az órán a specifikációkat érdemes befejezni és lassacskán elkezdeni kitalálni a fõbb funkciókat.
+Ezen az órán már megtetteük amit csak kell
+Ma nem fogjuk megváltani a világot de majd egyszer.
+
+=======
+// Ezen az órán a specifikációkat érdemes befejezni és lassacskán elkezdeni kitalálni a fõbb funkciókat.  
+
+//saját ikonterv kialakításanak megbeszélése 
+//béta forráskód feltöltésének határidõt szabni
+
+
+
+>>>>>>> fa59c8e1d0c23935d4d0c325a4c57f89062917ab
