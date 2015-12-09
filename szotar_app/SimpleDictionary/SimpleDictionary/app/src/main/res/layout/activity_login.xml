@@ -20,8 +20,8 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Kilépés"
-        android:id="@+id/buttonExit"
+        android:text="Fejlesztői felület"
+        android:id="@+id/buttonDeveloper"
         android:layout_centerVertical="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
