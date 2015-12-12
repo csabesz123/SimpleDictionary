@@ -53,12 +53,6 @@ public class MainMenuActivity extends AppCompatActivity implements View.OnClickL
                 startActivity(intentMagyarJapan);
                 break;
 
-            case R.id.buttonVissza:
-                Intent intentVissza = new Intent(MainMenuActivity.this, LoginActivity.class);
-                startActivity(intentVissza);
-                break;
-
-
 
         }
     }
