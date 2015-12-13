@@ -21,6 +21,8 @@
         <activity android:name=".MagyarJapanLista" />
         <activity android:name=".MagyarOlasz" >
         </activity>
+        <activity android:name=".MagyarNemet" >
+        </activity>
     </application>
 
 </manifest>

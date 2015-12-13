@@ -20,6 +20,7 @@ public class MainMenuActivity extends AppCompatActivity implements View.OnClickL
     Button buttonMagyarAngol;
     Button buttonMagyarJapan;
     Button buttonMagyarOlasz;
+    Button buttonMagyarNemet;
     Button buttonVissza;
     String[] szavak;
     ArrayList<String> listaSzavak; //items
@@ -41,6 +42,10 @@ public class MainMenuActivity extends AppCompatActivity implements View.OnClickL
         buttonMagyarOlasz = (Button) findViewById(R.id.buttonMagyarOlasz);
         buttonMagyarOlasz.setOnClickListener(this);
 
+        buttonMagyarNemet = (Button) findViewById(R.id.buttonMagyarNemet);
+        buttonMagyarNemet.setOnClickListener(this);
+
+
         final Intent intentBelepes = getIntent();
 
     }
@@ -60,6 +65,11 @@ public class MainMenuActivity extends AppCompatActivity implements View.OnClickL
             case R.id.buttonMagyarOlasz:
                 Intent intentMagyarOlasz = new Intent(MainMenuActivity.this, MagyarOlasz.class);
                 startActivity(intentMagyarOlasz);
+                break;
+
+            case R.id.buttonMagyarNemet:
+                Intent intentMagyarNemet = new Intent(MainMenuActivity.this, MagyarNemet.class);
+                startActivity(intentMagyarNemet);
                 break;
 
 
