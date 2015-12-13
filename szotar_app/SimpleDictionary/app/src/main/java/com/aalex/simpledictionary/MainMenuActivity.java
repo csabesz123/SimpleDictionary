@@ -19,6 +19,7 @@ import java.util.Arrays;
 public class MainMenuActivity extends AppCompatActivity implements View.OnClickListener {
     Button buttonMagyarAngol;
     Button buttonMagyarJapan;
+    Button buttonMagyarOlasz;
     Button buttonVissza;
     String[] szavak;
     ArrayList<String> listaSzavak; //items
@@ -37,6 +38,9 @@ public class MainMenuActivity extends AppCompatActivity implements View.OnClickL
         buttonMagyarJapan = (Button) findViewById(R.id.buttonMagyarJapan);
         buttonMagyarJapan.setOnClickListener(this);
 
+        buttonMagyarOlasz = (Button) findViewById(R.id.buttonMagyarOlasz);
+        buttonMagyarOlasz.setOnClickListener(this);
+
         final Intent intentBelepes = getIntent();
 
     }
@@ -51,6 +55,11 @@ public class MainMenuActivity extends AppCompatActivity implements View.OnClickL
             case R.id.buttonMagyarJapan:
                 Intent intentMagyarJapan = new Intent(MainMenuActivity.this, MagyarJapanLista.class);
                 startActivity(intentMagyarJapan);
+                break;
+
+            case R.id.buttonMagyarOlasz:
+                Intent intentMagyarOlasz = new Intent(MainMenuActivity.this, MagyarOlasz.class);
+                startActivity(intentMagyarOlasz);
                 break;
 
 

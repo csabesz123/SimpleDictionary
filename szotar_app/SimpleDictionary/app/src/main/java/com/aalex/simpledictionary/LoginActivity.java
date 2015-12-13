@@ -46,6 +46,7 @@ public class LoginActivity extends AppCompatActivity implements  View.OnClickLis
         switch (v.getId()) {
             case R.id.buttonBelepes:
                 Intent intentBelepes = new Intent(LoginActivity.this, MainMenuActivity.class);
+
                 startActivity(intentBelepes);
                 break;
 
