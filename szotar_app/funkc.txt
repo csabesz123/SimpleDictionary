@@ -1,0 +1,22 @@
+// Áttekintés
+
+Nagyszerûen átlátható letisztult formában szeretnénk megjeleníteni egy szótár alkalmazást ami könnyedén gyorsan szemléltetné az idegen szavakat amiket éppen keresünk.
+
+// A rendszer funkciói
+
+Ezt az alkalmazást Android 5.0 és vagy magasabb verziószámú Android eszközökre fejlesztjük, foként telefonok és tableteket célozzuk meg ezzel az alkalmazással.  
+
+    Kliensoldal (a felhasználó készülékén futó alkalmazás funkciói)
+       Több nyelvû szótár.(Magyar-Angol,Magyar-Német,Magyar-Olasz,Magyar-Japán)
+
+    Szerveroldal
+        Általunk készített adatbázis.
+
+// Nem funkcionális követelmények
+
+Az app adatbázisból fogja felsorolni a magyar szavakat és külföldi megfelelõjüket.
+
+// Dizájn terv
+
+Egy letisztult alkalmazást szeretnénk létrehozni ami felhasználóbarát tervezése miatt könnyen kezelhetõ és átláltható lesz.
+Mindezek melett minden fontos információt megtalálhatunk.
