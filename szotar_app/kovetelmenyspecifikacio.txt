@@ -6,10 +6,19 @@ Apjok Alex	qm596t	apjok.alex17@gmail.com
 Csikós Zoltán	qf7zed	zoltancsikos12@gmail.com
 
 Bevezetés:
-Ez a dokumentum alapvetõen a szolgáltatásokat mutatja be, elemzi a felhasználók által végezhetõ eseményeket és persze sok más kérdésre is választ ad.
+Ez az applikáció egy szótár applikáció, amivel az idegen nyelvi nehézségeket lehet egy kicsit áthidalni.
+Bármikor bárhonnan elérhetõve téve a felhasználók számára.
 
-Áttekintés:
-Fõbb funkciók:  -Több nyelvû átlátható szótár.
+
+Fõbb funkciók:
+
+- Olyan alkalmazást szeretnénk fejleszteni ami könnyen átláthatóan közli többféle idegen nyelven(Angol, Japán, Olasz, Német) az épp keresett szót.
+
+- Magát a programot nem szeretnénk túl dizájnolni, mert szeretnénk a könnyen átláthatóságra törekedni, hogy a tartalom ne vesszen el a grafikus felületen.
+
+-Szeretnénk beleépíteni egy olyan funkciót is, hogy a felhasználó felvihessen új szavakat az adatbázisba esetleges hiányosság esetén.
+
+-Az alkalmazás úgy fogja megjeleníteni a szavakat mintha egy szótárfüzetet nézegetnénk ezzel kicsit egyedibb formát alkotva.
 		
-………
+
 

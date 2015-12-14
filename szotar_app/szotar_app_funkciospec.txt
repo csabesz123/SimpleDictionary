@@ -1,12 +1,32 @@
 SimpleDictionary – Funkcióspec.
 
+//Áttekintés
+
 Ez az applikáció egy szótár applikáció, amivel az idegen nyelvi nehézségeket lehet egy kicsit áthidalni.
+Átlátható letisztult formában lesz megjelenítve az alkalmazás ezzel könnyítve a felhasználó számára a könnyed átláthatóságot.
+A felület egy szótárfüzethez hasonlóan fogja megjeleníteni a szavakat.
 
-A rendszer funkciói:
-Ez az alkalmazás 4.0.4 vagy újabb operációs rendszerû telefonra készül. Elsõdleges cél az okostelefonok, hiszen manapság majdnem minden ember rendelkezik egy okostelefonnal.
+//A rendszer funkciói:
 
-Felhasználói felület:
+Ez az alkalmazás 4.0.4 vagy újabb operációs rendszerû telefonra készül. Elsõdleges cél az okostelefonok, hiszen manapság majdnem minden ember rendelkezik egy okostelefonnal de ugyanakkor tableten is nagyszerûen fog mûködni.
+Az alkalmazás nem fog igényeli folyamatos hálózati kapcsolatot ezért bárhonnan elérhetõ (pl. ha külföldön van az ember és nincs mobilnet és esetlegesen wifi sem akkor is elérheti az alkalmazást).
+
+//Felhasználói felület:
+
 Az alkalmazás lehetõséget fog adni a felhasználónak, hogy melyik idegen nyelv szavait akarja lefordítani. Kezdetben Angol-Magyar, Magyar-Angol, illetve Német-Magyar, Magyar-Német szótárat fog tartalmazni.
+Ez bõvítve lesz Magyar-Japán nyelvû felülettel is hamarosan.
+Lehetõség lesz a felhasználónak új szavakat felvinni az adatbázisba egyszerû módon.
+Kezdetben az alkalmazás egy login activity-vel fog indulni amelyen két gomb lesz.
+Egy "Belépés" és egy "Kilépés".
+-"Belépés" gomb megnyomására elöjön a main menu activity amin négy szótár megnyitásához szükséges gombok fognak szerepelni ellátva a megfelelõ címzéssel (Magyar-Angol, Magyar-Német, Magyar-Olasz, Magyar-Japán).
+-A kiválasztott idegennyelvre kattintva megjelennek a szavak egy listában amely egy szótárfüzet hangulatát fogják nyújtani.
+-"list view" felett egy "search view" foglal helyet melynek segítségével lehet keresni a szavak között.
 
-Dizájn terv: 
-Egy letisztult alkalmazást szeretnénk létrehozni ami felhasználóbarát tervezése miatt könnyen kezelhetõ és átlátható lesz.
+Késõbbiekben: Bõvíteni fogjuk az alkalmazást további idegennyelvekkel és lehetõség szerint egy olyan adatbázissal fogunk dolgozni ami szinte minden szót tárolni fog.
+
+Kilesz bõvítve Donation funkcióval és felfog kerülni a Play áruházba is.
+
+//Dizájn terv: 
+
+Egy letisztult alkalmazást szeretnénk létrehozni ami felhasználóbarát tervezése miatt könnyen kezelhetõ és átlátható lesz, ezért a felhasználók nem vesznek el a grafikus felületben.
+
