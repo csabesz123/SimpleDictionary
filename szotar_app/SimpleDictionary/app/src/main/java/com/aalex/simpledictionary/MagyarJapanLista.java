@@ -25,7 +25,7 @@ public class MagyarJapanLista extends AppCompatActivity {
         lv = (ListView)findViewById(R.id.magyarJapanLista);
         sv=(SearchView)findViewById(R.id.searchView1);
 
-        String[] values = new String[] {"a - die","abbahagy - 停止","abbamarad - やめます","ABC - スーパーマーケット","ábécé - アルファベット","ablak - ウィンドウ",
+        String[] values = new String[] {"a - ザ","abbahagy - 停止","abbamarad - やめます","ABC - スーパーマーケット","ábécé - アルファベット","ablak - ウィンドウ",
                 "ablakpárkány - 窓台","ablaktörlõ - ワイパー","abortusz - 中絶","ábra - 図","ábránd - 夢","ábrándozás - 夢","ábrándozik - 空想","ábrándozó - 夢想家","ábrázol - 描きます","abrosz - テーブルクロス",
                 "abszolút - 絶対的なt","abszolút hallás - 絶対音感ör","abszurd - 不条理な","acél - スチール","ács - 大工r","ácsorog - ラウンジ","ad - 与えます","adag - 用量","adapter - アダプタ","adás - 放送",
                 "adat - データ","ádáz - 熾烈な","addig - 前","addig is - その間に","addigra - その間に、","adjunktus - 講師","adminisztratív - 行政の","adó - Steuer","adó-vevõ - トランシーバ","adódik - 原因",

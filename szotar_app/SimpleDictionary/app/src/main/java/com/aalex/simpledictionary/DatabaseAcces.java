@@ -17,21 +17,12 @@ public class DatabaseAcces {
     private SQLiteDatabase database;
     private static DatabaseAcces instance;
 
-    /**
-     * Private constructor to aboid object creation from outside classes.
-     *
-     * @param context
-     */
+
     private DatabaseAcces(Context context) {
             this.openHelper = new DatabaseOpenHelper(context);
         }
 
-        /**
-         * Return a singleton instance of DatabaseAccess.
-         *
-         * @param context the Context
-         * @return the instance of DabaseAccess
-         */
+
     public static DatabaseAcces getInstance(Context context) {
         if (instance == null) {
             instance = new DatabaseAcces(context);
@@ -39,27 +30,19 @@ public class DatabaseAcces {
         return instance;
     }
 
-    /**
-     * Open the database connection.
-     */
+    //adatbáziskapcsolat nyitása
     public void open() {
         this.database = openHelper.getWritableDatabase();
     }
 
-    /**
-     * Close the database connection.
-     */
+    //adatbázis kapcsolat bezárása
     public void close() {
         if (database != null) {
             this.database.close();
         }
     }
 
-    /**
-     * Read all quotes from the database.
-     *
-     * @return a List of quotes
-     */
+    //adatbázisból olvassa a sorokat, majd egy listában visszaadja
     public List<String> getQuotes() {
         List<String> list = new ArrayList<>();
         Cursor cursor = database.rawQuery("SELECT * FROM magyar_angol", null);

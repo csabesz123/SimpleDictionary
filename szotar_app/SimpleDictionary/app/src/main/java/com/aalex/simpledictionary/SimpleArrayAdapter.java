@@ -30,7 +30,7 @@ public class SimpleArrayAdapter extends ArrayAdapter<String> {
         //Hozzuk létre az adapterhez használatos View-t
         View rowView = inflater.inflate(R.layout.list_item, parent, false);
 
-        //Példányosítsuk és töltsük fel a View elemeit
+        //Példányosítunk és feltöltjük a view elemet
         TextView textView = (TextView) rowView.findViewById(R.id.secondLine);
         ImageView imageView = (ImageView) rowView.findViewById(R.id.icon);
         textView.setText(values[position]);
