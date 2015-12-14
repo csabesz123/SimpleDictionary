@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SimpleDictionary.iml" filepath="$PROJECT_DIR$/SimpleDictionary.iml" />
+<<<<<<< HEAD
+=======
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+>>>>>>> ad8dc187369b7df647ed6d8b75aa4178a9573872
     </modules>
   </component>
 </project>
