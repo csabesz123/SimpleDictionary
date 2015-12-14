@@ -29,7 +29,7 @@ public class MagyarOlasz extends AppCompatActivity     {
 
         lv = (ListView)findViewById(R.id.magyarOlaszLista);
         sv=(SearchView)findViewById(R.id.searchView1);
-
+        //
         String[] values = new String[] {"A-Á", "", "a - the", "abbahagy - smettere", "abbamarad - cessare", " ABC - supermercato", "ablak - finestra", "ablaktörlő - tergicristallo", "abortusz - aborto",
                 "ábra - cifra", "ábránd - sognare", "ábrázol - rappresentare", "abrosz - tovaglia", "abszurd - assurdo", "acél - acciaio", "ács - falegname", "ácsorog - salotto", "ad - dare", "adat - dati", "ádáz - feroce",
                 "addig - prima", "adó - tasse", "adódik  - dovuto", "aggaszt - preoccuparsi", "ágy - letto", "agyag - argilla", "ajak - labbro", "ajándék - regalo", "ajándékoz - donare", "ajánlat - offerta", "ajtó - porta", "ajtócsengő - Chime", "akadály - barriera", "akár - anche", "állam - stato", "átlatlános - generale", "analizál - analizzare",
@@ -59,10 +59,12 @@ public class MagyarOlasz extends AppCompatActivity     {
 
         lv = (ListView) findViewById(R.id.magyarOlaszLista);
         lv.setAdapter(adapter);
+
         lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 final String item = (String) parent.getItemAtPosition(position);
+
                 Toast.makeText(getApplicationContext(), item, Toast.LENGTH_SHORT).show();
             }
         });
