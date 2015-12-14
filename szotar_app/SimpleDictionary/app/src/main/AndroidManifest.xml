@@ -23,6 +23,12 @@
         </activity>
         <activity android:name=".MagyarNemet" >
         </activity>
+        <activity android:name=".MagyarAngolSzoInsert" >
+        </activity>
+        <activity android:name=".MagyarAngolInsert" >
+        </activity>
+        <activity android:name=".MagyarNemetInsert" >
+        </activity>
     </application>
 
 </manifest>
